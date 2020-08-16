@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![iSec's github stats](https://github-readme-stats.vercel.app/api?username=isafe&show_icons=true&theme=cobalt)
+
+
+
 <!--
 **isafe/isafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
